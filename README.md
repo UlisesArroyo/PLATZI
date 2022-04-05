@@ -1,4 +1,5 @@
-# Información acerca de los cursos realizados en PlATZI 
+# Información acerca de los cursos realizados en PLATZI 
 
 ## Curso de Frontend Developer
+
 
